@@ -1,2 +1,2 @@
 # foodweb
-web project in first sem of b.tech
+A responsive web design
